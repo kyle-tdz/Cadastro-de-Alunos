@@ -23,5 +23,7 @@ int main(){
     scanf ("%f", &altura1);
     printf("A altura é: %.2f\n", altura1);
 
+    return 0;
+
 
 }
